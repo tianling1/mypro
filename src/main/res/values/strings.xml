@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Signalcheck</string>
+    <string name="welcome">基站信号检测</string>
+    <string name="hint">站点名称</string>
+    <string name="auto">自动刷新</string>
+    <string name="screenshots">截屏</string>
+    <string name="historical_record">历史记录</string>
+    <string name="detection">检测</string>
+</resources>
